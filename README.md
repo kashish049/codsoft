@@ -52,7 +52,9 @@ A console-based task manager that allows:
 
 ## 📸 Screenshots (Optional)
 
-> You can add screenshots here showing each app running in the console for better presentation.
+> 1.number guessing game
+> ![{B1EBF008-E610-4E4E-8BB3-C0E6B409D43E}](https://github.com/user-attachments/assets/7e5f8c1f-bb47-4d1b-afd6-3c22c446e5b5)
+
 
 ---
 
