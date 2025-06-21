@@ -50,20 +50,38 @@ A console-based task manager that allows:
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Project Screenshots
 
-> 1.number guessing game
-> ![Screenshot 2025-06-21 140639](https://github.com/user-attachments/assets/c5773947-272d-4ca7-968f-b99b96b9af18)
-> 2.Tic-Tac-Toe
-> ![Screenshot 2025-06-21 140947](https://github.com/user-attachments/assets/8fb1ca27-7ca7-47d7-a637-058f19cc9be1)
-> 3.TO-DO-LIST
-> ![Screenshot 2025-06-21 141341](https://github.com/user-attachments/assets/c4f74398-2f6c-4f51-9e84-bb11e0d410a7)
-
-
-
-
+Here are some screenshots showcasing the console output of each project:
 
 ---
+
+### 🎯 1. Number Guessing Game
+
+A random number is generated, and the user receives feedback on their guesses until they find the correct number.
+
+![Number Guessing Game](https://github.com/user-attachments/assets/c5773947-272d-4ca7-968f-b99b96b9af18)
+
+---
+
+### ❌⭕ 2. Tic-Tac-Toe Game
+
+A two-player interactive game with a 3x3 grid, win/draw detection, and the option to replay.
+
+![Tic-Tac-Toe Game](https://github.com/user-attachments/assets/8fb1ca27-7ca7-47d7-a637-058f19cc9be1)
+
+---
+
+### 📋 3. To-Do List Manager
+
+Add, view, complete, and remove tasks with status updates for each entry.
+
+![To-Do List](https://github.com/user-attachments/assets/c4f74398-2f6c-4f51-9e84-bb11e0d410a7)
+
+---
+
+
+
 
 ## 📥 How to Run
 
