@@ -53,7 +53,14 @@ A console-based task manager that allows:
 ## 📸 Screenshots (Optional)
 
 > 1.number guessing game
-> ![{B1EBF008-E610-4E4E-8BB3-C0E6B409D43E}](https://github.com/user-attachments/assets/7e5f8c1f-bb47-4d1b-afd6-3c22c446e5b5)
+> ![Screenshot 2025-06-21 140639](https://github.com/user-attachments/assets/c5773947-272d-4ca7-968f-b99b96b9af18)
+> 2.Tic-Tac-Toe
+> ![Screenshot 2025-06-21 140947](https://github.com/user-attachments/assets/8fb1ca27-7ca7-47d7-a637-058f19cc9be1)
+> 3.TO-DO-LIST
+> ![Screenshot 2025-06-21 141341](https://github.com/user-attachments/assets/c4f74398-2f6c-4f51-9e84-bb11e0d410a7)
+
+
+
 
 
 ---
